@@ -1,6 +1,6 @@
 # Hello, world! 
-## This is Heading 2 
-_This is me using the italic font_
+## This is some Heading 2 that I'm writting!
+_This is me using the italic font I think idk_
 
 **Some Bold writting that I using to write this**
 
