@@ -48,6 +48,11 @@ scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
 After you are done it should look something like this...
 ![Running the command javac and java when logged in (ieng6)](Screenshot%20(561).png)
 
+And that's how you copy a file from your computer to a remote computer!
+
+# Setting an SSH Key
+In order to avoid repeating the task of logging in and putting the password over and over again the **ssh keys** will be very useful. In order to set up ssh keys: 
+- First, on your computer run this command `ssh-keygen` (DO NOT add a **paraphrase**), You should end up with something like this...
 
 
 
