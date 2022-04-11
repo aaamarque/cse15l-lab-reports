@@ -23,6 +23,7 @@ Once you are log in with you course-specific account you can try some commands i
 - ls -a
 
 It should look something like this...
+![Trying some commands](Screenshot%20(560).png)
 
 
 
