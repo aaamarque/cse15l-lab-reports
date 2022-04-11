@@ -54,6 +54,9 @@ And that's how you copy a file from your computer to a remote computer!
 In order to avoid repeating the task of logging in and putting the password over and over again the **ssh keys** will be very useful. In order to set up ssh keys: 
 - First, on your computer run this command `ssh-keygen` (DO NOT add a **paraphrase**), You should end up with something like this...
 ![ssh-keygen](Screenshot%20(562).png)
+- Second, log in to the server with ssh and your course-specific account `ssh cs15lsp22zz@ieng6.ucsd.edu` then, put `mkdir .ssh` and log out after that. 
+
+
 
 
 
