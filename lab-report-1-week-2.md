@@ -25,6 +25,25 @@ Once you are log in with you course-specific account you can try some commands i
 It should look something like this...
 ![Trying some commands](Screenshot%20(560).png)
 
+# Moving Files with scp
+There is many ways to copy a file from your computer to a remote computer. We will be using the command **scp**, which will always be used when not logged into **ieng6.** 
+- First, you will create a file in your computer called **WhereAmI.java** and copy the following code onto that file: 
+```
+class WhereAmI {
+public static void main(String[] args) {
+System.out.println(System.getProperty("os.name"));
+System.out.println(System.getProperty("user.name"));
+System.out.println(System.getProperty("user.home"));
+System.out.println(System.getProperty("user.dir"));
+}
+}
+```
+- Second, in the same terminal and directory where you made the file, run the following command: 
+
+```
+scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
+```
+- Then, log into ieng6 with **ssh** and use **ls**, you should see the file that you just created! And you should be able to run it with **javac** and **java!**
 
 
 
