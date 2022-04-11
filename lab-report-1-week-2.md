@@ -61,10 +61,15 @@ cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys` replacing user-name with the 
 # Optimizing Remote Running
 There are ways to make the use of time more efficient. For example, you can use a command and combine it with ssh to make things go faster. 
 `ssh cs15lsp22are@ieng6.ucsd.edu "ls" `
+![1st command](Screenshot%20(564).png)
+
 or 
+
 you can also run multiple commands on the same line of the termina like this...
 `cp WhereAmI.java; javac OtherMain.java; java WhereAmI`
 In your terminal it should look like this...
+![2nd command](Screenshot%20(565).png)
+
 
 
 
