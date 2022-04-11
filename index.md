@@ -6,7 +6,7 @@ _This is me using the italic font I think idk_
 
 [Link to coding](https://bubble.io/web-apps)
 
-[Week 2 Lab Report 1](https://aaamarque.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+[Week 2 Lab Report (1)](https://aaamarque.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
 
 ![An Image of a dog](https://th.bing.com/th/id/OIP.4_6rMgukSe-BphIT_xTFqgHaFj?pid=ImgDet&rs=1)
