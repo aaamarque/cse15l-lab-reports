@@ -14,6 +14,7 @@ We will be using course-specific accounts, to help connect your machine to a rem
 - Second, you will need to look up your course-specific account for your class [here](https://sdacs.ucsd.edu/~icc/index.php). For example, for UCSD the class CSE15L, should look like this **cs15lsp22zz@ieng6.ucsd.edu** 
 - Then, we are going to use VSCode to connect to a remote computer.
 - Open a terminal in VSCode and put **ssh** in front of your course-specific account, like this **ssh cs15lsp22zz@ieng6.ucsd.edu**, it should look something like this in your terminal.
+![ssh connection](Screenshot%20(390).png)
 
 
 
