@@ -45,6 +45,11 @@ scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
 ```
 - Then, log into ieng6 with **ssh** and use **ls**, you should see the file that you just created! And you should be able to run it with **javac** and **java!**
 
+After you are done it should look something like this...
+![Running the command javac and java when logged in (ieng6)](Screenshot%20(561).png)
+
+
+
 
 
 
