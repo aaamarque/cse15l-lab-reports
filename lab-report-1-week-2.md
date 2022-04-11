@@ -55,6 +55,11 @@ In order to avoid repeating the task of logging in and putting the password over
 - First, on your computer run this command `ssh-keygen` (DO NOT add a **paraphrase**), You should end up with something like this...
 ![ssh-keygen](Screenshot%20(562).png)
 - Second, log in to the server with ssh and your course-specific account `ssh cs15lsp22zz@ieng6.ucsd.edu` then, put `mkdir .ssh` and log out after that. 
+- Lastly, write `scp /Users/<user-name>/.ssh/id_rsa.pub
+cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys` replacing user-name with the one in tha path. 
+
+# Optimizing Remote Running
+
 
 
 
