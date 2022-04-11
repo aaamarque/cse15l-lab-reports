@@ -59,6 +59,14 @@ In order to avoid repeating the task of logging in and putting the password over
 cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys` replacing user-name with the one in tha path. 
 
 # Optimizing Remote Running
+There are ways to make the use of time more efficient. For example, you can use a command and combine it with ssh to make things go faster. 
+`ssh cs15lsp22are@ieng6.ucsd.edu "ls" `
+or 
+you can also run multiple commands on the same line of the termina like this...
+`cp WhereAmI.java; javac OtherMain.java; java WhereAmI`
+In your terminal it should look like this...
+
+
 
 
 
