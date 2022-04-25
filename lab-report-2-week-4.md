@@ -16,7 +16,7 @@
 
 ![Screenshot 2](Screenshot%20(575).png)
 
-- There is a bug, which was that it couldn't handle open brackets. So when I tested a file with one missing brackets it was given the symtom of an infinite loop when testing with the test file. The reason why the test case would give an infinite loop it's because the variables for the braces and paranthesis were always looking for the other parenthesis or bracket when it wasn't there so it would crash. 
+- There is a bug, which was that it couldn't handle open brackets. So when I tested a file with one missing brackets it was given the symptom of an infinite loop when testing with the test file. The reason why the test case would give an infinite loop it's because the variables for the braces and paranthesis were always looking for the other parenthesis or bracket when it wasn't there so it would crash. 
 
 # Second Code Change
 
@@ -33,7 +33,7 @@
 ![Test failed 4](Screenshot%20(578).png)
 
 
-- There was a bug that gave the symtom of the wrong answer. When testing with the test with the image link it would put it in the list giving the wrong answer. This was happening because the image, the format of inserting an image, had the brackets and braces and so it would ignore the "!".
+- There was a bug that gave the symptom of the wrong answer. When testing with the test with the image link it would put it in the list giving the wrong answer. This was happening because the image, the format of inserting an image, had the brackets and braces and so it would ignore the "!".
 
 
 # Third Code Change
@@ -46,9 +46,13 @@
 
 [Link to the failure-inducing input](https://github.com/aaamarque/markdown-parser/commit/2d5f66b46bcaea1203ed3d228f26734b2eeb475f)
 
-- This screenshot shows without the fix there would be **(picture of the terminal with the error or wrong answer)**
+- This screenshot shows without the fix it would cause the wrong output. The terminal shows how it picked up the two strings that weren't even links, and added them to the list. 
 
-- There was a bug that gave the symtom of the **(gives explanation)
+![Image](Screenshot%20(582).png)
+
+
+
+- There was a bug that gave the symptom of the wrong answer. What was happening is that since the two strings had the brackets and paranthesis it would add them to the list. The test case had the format of the link so that's why it would cause the wrong output. 
 
 
 
