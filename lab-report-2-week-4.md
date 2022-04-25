@@ -40,6 +40,8 @@
 
 -  The screenshot below is a screenshot of the code change diff from Github.
 
+![Image](Screenshot%20(581).png)
+
 - This is the link to the failure-inducing input.(it's on the bottom of the page)
 
 [Link to the failure-inducing input](https://github.com/aaamarque/markdown-parser/commit/2d5f66b46bcaea1203ed3d228f26734b2eeb475f)
