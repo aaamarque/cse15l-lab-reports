@@ -23,7 +23,10 @@
 
 ![Screenshot](Screenshot%20(573).png)
 
-![Test failed 4](Screenshot%20(576).png)
+
+[Link: Failure Inducing Input](https://github.com/aaamarque/markdown-parser/commit/baadd0ca92fbcf639f8c637fce072570c4ba4948)
+
+![Test failed 4](Screenshot%20(578).png)
 
 
 
