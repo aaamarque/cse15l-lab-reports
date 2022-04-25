@@ -11,6 +11,7 @@
 [Link: Failure-Inducing Input](https://github.com/aaamarque/markdown-parser/commit/026b3f3372b861540caa14c8c2f1d24f4e59de9b)
 
 
+
 - This screenshot shows without the fix there would be an infinite loop. The terminal shows how it's in an infinite never ending.
 
 ![Screenshot 2](Screenshot%20(575).png)
@@ -21,13 +22,29 @@
 
 - The screenshot below is a screenshot of the code change diff from Github.
 
-![Screenshot](Screenshot%20(573).png)
+![Screenshot](Screenshot%20(579).png)
 
-
+- This is the link to the failure-inducing input.
 [Link: Failure Inducing Input](https://github.com/aaamarque/markdown-parser/commit/baadd0ca92fbcf639f8c637fce072570c4ba4948)
+
+
+- This screenshot shows without the fix it would be producing the wrong answer. The terminal shows how it picked up the image putted in the list, when it's not supposed to do that. 
 
 ![Test failed 4](Screenshot%20(578).png)
 
+
+- There was a bug that gave the symtom of the wrong answer. When testing with the test with the image link it would put it in the list giving the wrong answer. This was happening because the image, the format of inserting an image, had the brackets and braces and so it would ignore the "!".
+
+
+# Third Code Change
+
+-  The screenshot below is a screenshot of the code change diff from Github.
+
+- This is the link to the failure-inducing input.
+
+- This screenshot shows without the fix there would be **(picture of the terminal with the error or wrong answer)**
+
+- There was a bug that gave the symtom of the **(gives explanation)
 
 
 
