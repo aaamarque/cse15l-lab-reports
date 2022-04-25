@@ -24,7 +24,7 @@
 
 ![Screenshot](Screenshot%20(579).png)
 
-- This is the link to the failure-inducing input.
+- This is the link to the failure-inducing input. (When you click the link the test is on the bottom of the page)
 [Link: Failure Inducing Input](https://github.com/aaamarque/markdown-parser/commit/baadd0ca92fbcf639f8c637fce072570c4ba4948)
 
 
