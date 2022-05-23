@@ -12,7 +12,10 @@
 
 - This is how I turned the snippet 1 into a test
 
-![Screenshot 2](Screenshot%20(608).png)
+![Screenshot 2](Screenshot%20(609).png)
+
+- My implementation (It failed)
+
 
 
 
