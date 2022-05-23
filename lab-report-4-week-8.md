@@ -58,6 +58,19 @@
 
 ![Screenshot 4](Screenshot%20(619).png)
 
+## Questions
+
+- For snippet 1, I would have to modify, fix, and change more than 10 lines of code. This is because of the the qouatation marks location and the nested brackets. I would have to put a lot of if statements in order for my code to work properly with the nested brackets. 
+
+- For snippet 2, I would have to modify, fix, and change more than 10 lines of code. This is because of the nested brackets and braces. I would have to put a lot of if statements in order for my code to work properly with the nested brackets and not break my code or give me an infinite loop.
+
+- For snippet 3, I would have to modify, fix, and change more than 10 lines of code. This is because of the spacing within the lines. I would have to put a lot of if statements in order for my code to work properly with the spacing and not break my code or give me an infinite loop because of the spacing. 
+
+**My code does pass any of the tests it fails**
+
+
+
+
 
 
 
