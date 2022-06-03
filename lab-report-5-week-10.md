@@ -15,6 +15,12 @@
 ## Test #1
 - For the first test my implementation is wrong, it gives the wrong output. Because it's supposed to be empty
 
+![Screenshot 4](Screenshot%20(628).png)
+
+Expected output
+
+![Screenshot 4](Screenshot%20(630).png)
+
 
 
 
