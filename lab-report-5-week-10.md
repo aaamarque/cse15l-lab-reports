@@ -21,7 +21,15 @@ Expected output
 
 ![Screenshot 4](Screenshot%20(631).png)
 
-- My implementation picks up url becuase of the paranthesis around it. 
+- My implementation picks up url becuase of the paranthesis around it. Because  **openparen** and **closeParen**. Since it finds a pair my program it's going to pick it up and add it to the links.
+
+![Screenshot 4](Screenshot%20(632).png)
+
+
+
+
+
+
 
 
 
