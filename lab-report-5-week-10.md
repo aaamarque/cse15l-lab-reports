@@ -34,7 +34,7 @@ Expected output
 
 ![Screenshot 4](Screenshot%20(633).png)
 
-- My implementation picks up nothing because becuase there is nothing surrounding it, there is no pair. 
+- My implementation picks up nothing because becuase there is no pair surrounding it. So it does not pick anything. There isn't an infinite loop because there are paranthesis surrounding other words. 
 
 ![Screenshot](Screenshot%20(634).png)
 
